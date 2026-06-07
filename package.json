@@ -1,5 +1,5 @@
 {
-      "homepage": "https://https://github.com/kaflekaniska7-eng/birthday.git",
+      "homepage": "https://kaflekaniska7-eng.github.io/birthday",
 
     "name": "samikshya-birthday",
     "version": "1.0.0",
@@ -20,7 +20,7 @@
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
 }
     },
     "eslintConfig": {
